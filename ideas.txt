@@ -1,0 +1,8 @@
+Create and e-commerse website
+- a pc part picking and building website
+
+Creat a pokedex
+-users can search pokemon
+-users can put together their team of 6
+
+Creat another social media website but in Java
